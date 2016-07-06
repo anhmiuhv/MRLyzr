@@ -15,7 +15,7 @@ This is created based on Music21. Have to improve a lot in the future. This is j
 
 
 
-How to install;
+**How to install:**
 
 Current for Mac only
 
