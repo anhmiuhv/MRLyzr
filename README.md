@@ -5,10 +5,9 @@ A music sheet analysis application
 
 Function
 
-
-	* (beta) chord identifications
-	* (beta) key change identification
-	* (beta) simple form identification
+* (beta) chord identifications
+* (beta) key change identification
+* (beta) simple form identification
 
 Uses Max 7 as the UI
 
