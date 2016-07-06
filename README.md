@@ -19,10 +19,8 @@ This is created based on Music21. Have to improve a lot in the future. This is j
 
 Current for Mac only
 
-1. Install music21 by unzip music21-2.2.1.tar file
+1. Install music21
 
-   	   - Run the installer.py in the unzipped folder
-	   - Follow the instruction to install music21
 2. Move chordAnalysis.py to the Downloads folder
 3. Unzip shell.zip file and change the file configuration in Max to use the shell object inside the unziped folder
 4. Run interface v2.maxpat to use the software or you can use the commandline interface through terminal by running the command:
