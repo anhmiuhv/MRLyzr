@@ -3,7 +3,6 @@ MRLyzr
 
 A music sheet analysis application
 
-
 Function
 
 
