@@ -5,13 +5,17 @@ A music sheet analysis application
 
 
 Function
+
+
 	* (beta) chord identifications
 	* (beta) key change identification
 	* (beta) simple form identification
 
 Uses Max 7 as the UI
 
-This is created based on Music21.
+This is created based on Music21. Have to improve a lot in the future. This is just a propotype.
+
+
 
 How to install;
 
